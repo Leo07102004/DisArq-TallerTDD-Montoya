@@ -1,0 +1,19 @@
+# Ignorar la carpeta target generada por Maven
+/target/
+
+# Ignorar archivos y carpetas generados por IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Ignorar archivos y carpetas generados por Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
